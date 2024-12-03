@@ -1,0 +1,40 @@
+2024-12-03 14:17:56,624 - iib_metrics_client.py --> <module> - INFO - Run ace-metrics-pyclient v.1.0.0
+2024-12-03 14:17:56,624 - iib_metrics_client.py --> parse_commandline_args - INFO - Trying to determine Integration Bus version from environment variable MQSI_VERSION_V.
+2024-12-03 14:17:56,624 - iib_metrics_client.py --> get_version_from_env - INFO - Integration Bus version is defined via MQSI_VERSION_V environment variable.
+2024-12-03 14:17:56,624 - iib_metrics_client.py --> <module> - INFO - Integration Bus version: 12
+2024-12-03 14:17:56,624 - iib_metrics_client.py --> <module> - INFO - Metrics will be collected every 60 seconds
+2024-12-03 14:17:56,624 - iib_metrics_client.py --> get_iib_metrics - INFO - Starting metrics collecting for Integration Bus!
+2024-12-03 14:17:58,129 - iib_metrics_client.py --> put_metric_to_gateway - INFO - Destination url: http://Y0008427:9091/metrics/job/INWSL
+2024-12-03 14:17:58,134 - iib_metrics_client.py --> put_metric_to_gateway - INFO - Success! Server response: <Response [200]>
+2024-12-03 14:17:58,134 - iib_metrics_client.py --> get_iib_metrics - INFO - All metrics pushed successfully!
+2024-12-03 14:17:58,134 - iib_metrics_client.py --> get_iib_metrics - INFO - Script finished in - 1.5095741748809814 seconds -
+2024-12-03 14:22:23,552 - ace_metrics_client.py --> <module> - INFO - Run ace-metrics-pyclient v.1.0.0
+2024-12-03 14:22:23,555 - ace_metrics_client.py --> parse_commandline_args - INFO - Trying to determine Integration Bus version from environment variable MQSI_VERSION_V.
+2024-12-03 14:22:23,555 - ace_metrics_client.py --> get_version_from_env - INFO - Integration Bus version is defined via MQSI_VERSION_V environment variable.
+2024-12-03 14:22:23,555 - ace_metrics_client.py --> <module> - INFO - Integration Bus version: 12
+2024-12-03 14:22:23,555 - ace_metrics_client.py --> <module> - INFO - Metrics will be collected every 60 seconds
+2024-12-03 14:22:23,555 - ace_metrics_client.py --> get_ace_metrics - INFO - Starting metrics collecting for Integration Bus!
+2024-12-03 14:22:24,998 - ace_metrics_client.py --> put_metric_to_gateway - INFO - Destination url: http://Y0008427:9091/metrics/job/INWSL
+2024-12-03 14:22:25,002 - ace_metrics_client.py --> put_metric_to_gateway - INFO - Success! Server response: <Response [200]>
+2024-12-03 14:22:25,002 - ace_metrics_client.py --> get_ace_metrics - INFO - All metrics pushed successfully!
+2024-12-03 14:22:25,002 - ace_metrics_client.py --> get_ace_metrics - INFO - Script finished in - 1.446789026260376 seconds -
+2024-12-03 14:23:53,587 - ace_metrics_client.py --> <module> - INFO - Run ace-metrics-pyclient v.1.0.0
+2024-12-03 14:23:53,588 - ace_metrics_client.py --> parse_commandline_args - INFO - Trying to determine Integration Bus version from environment variable MQSI_VERSION_V.
+2024-12-03 14:23:53,589 - ace_metrics_client.py --> get_version_from_env - INFO - Integration Bus version is defined via MQSI_VERSION_V environment variable.
+2024-12-03 14:23:53,589 - ace_metrics_client.py --> <module> - INFO - Integration Bus version: 12
+2024-12-03 14:23:53,589 - ace_metrics_client.py --> <module> - INFO - Metrics will be collected every 60 seconds
+2024-12-03 14:23:53,589 - ace_metrics_client.py --> get_ace_metrics - INFO - Starting metrics collecting for Integration Bus!
+2024-12-03 14:23:55,143 - ace_metrics_client.py --> put_metric_to_gateway - INFO - Destination url: http://Y0008427:9091/metrics/job/INWSL
+2024-12-03 14:23:55,146 - ace_metrics_client.py --> put_metric_to_gateway - INFO - Success! Server response: <Response [200]>
+2024-12-03 14:23:55,146 - ace_metrics_client.py --> get_ace_metrics - INFO - All metrics pushed successfully!
+2024-12-03 14:23:55,146 - ace_metrics_client.py --> get_ace_metrics - INFO - Script finished in - 1.5573582649230957 seconds -
+2024-12-03 15:09:03,026 - ace_metrics_client.py --> <module> - INFO - Run ace-metrics-pyclient v.1.0.0
+2024-12-03 15:09:03,027 - ace_metrics_client.py --> parse_commandline_args - INFO - Trying to determine Integration Bus version from environment variable MQSI_VERSION_V.
+2024-12-03 15:09:03,027 - ace_metrics_client.py --> get_version_from_env - INFO - Integration Bus version is defined via MQSI_VERSION_V environment variable.
+2024-12-03 15:09:03,027 - ace_metrics_client.py --> <module> - INFO - Integration Bus version: 12
+2024-12-03 15:09:03,027 - ace_metrics_client.py --> <module> - INFO - Metrics will be collected every 60 seconds
+2024-12-03 15:09:03,028 - ace_metrics_client.py --> get_ace_metrics - INFO - Starting metrics collecting for Integration Bus!
+2024-12-03 15:09:04,417 - ace_metrics_client.py --> put_metric_to_gateway - INFO - Destination url: http://Y0008427:9091/metrics/job/INWSL
+2024-12-03 15:09:04,421 - ace_metrics_client.py --> put_metric_to_gateway - INFO - Success! Server response: <Response [200]>
+2024-12-03 15:09:04,421 - ace_metrics_client.py --> get_ace_metrics - INFO - All metrics pushed successfully!
+2024-12-03 15:09:04,421 - ace_metrics_client.py --> get_ace_metrics - INFO - Script finished in - 1.3935046195983887 seconds -
