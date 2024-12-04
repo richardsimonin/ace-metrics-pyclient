@@ -69,6 +69,8 @@ def get_platform_params_for_commands(ace_ver):
         'BIP1287I': ['exec_groups', 7, 3, 9],
         'BIP1275I': ['applications', 6, 2, 8],
         'BIP1276I': ['applications', 6, 2, 8],
+        'BIP1877I': ['rest_api', 7, 3, 9],
+        'BIP1878I': ['rest_api', 7, 3, 9],
         'BIP1277I': ['message_flows', 7, 11, 3, 9],
         'BIP1278I': ['message_flows', 7, 11, 3, 9]}
     if ace_ver == "11":

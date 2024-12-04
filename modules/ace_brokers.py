@@ -48,6 +48,8 @@ def get_broker_items(broker_row_data, bip_codes):
             if bip_code in bip_codes.keys():
                 if  bip_codes[bip_code][0] == 'exec_groups':
                     exec_groups.append(record)
+                if  bip_codes[bip_code][0] == 'rest_api':
+                    applications.append(record)
                 if  bip_codes[bip_code][0] == 'applications':
                     applications.append(record)
                 if  bip_codes[bip_code][0] == 'message_flows':
